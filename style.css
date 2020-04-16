@@ -127,7 +127,7 @@ span {
 main {
   /*padding: 100% 0 8% 23.5%;*/
   /*background-image:-moz-linear-gradient( -45deg, #8700ff 0%, #a9bdfc 100%);*/
-  background-image: -webkit-linear-gradient( 225deg, #a9bdfc 0%,  #4b3b5b 80%);
+  background-image: -webkit-linear-gradient( 315deg, #a9bdfc 0%,  #4b3b5b 80%);
   /*background-image: -ms-linear-gradient( 45deg, #8700ff 0%, #a9bdfc 100%);*/
   width: 100%;
   
