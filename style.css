@@ -13,7 +13,7 @@ body {
   /*font-size: 1vw;*/
   font-size: 18pt;
   background: white;
-  color: #fff5e2;
+  color: #4b3b5b;
 }
 
 h1{
@@ -127,7 +127,7 @@ span {
 main {
   /*padding: 100% 0 8% 23.5%;*/
   /*background-image:-moz-linear-gradient( -45deg, #8700ff 0%, #a9bdfc 100%);*/
-  background-image: -webkit-linear-gradient( 225deg, #a9bdfc 0%,  #8700ff 80%);
+  background-image: -webkit-linear-gradient( 140deg, #a9bdfc 0%,  #4b3b5b 80%);
   /*background-image: -ms-linear-gradient( 45deg, #8700ff 0%, #a9bdfc 100%);*/
   width: 100%;
   
@@ -235,7 +235,11 @@ main {
   background-color: #808080;
   text-align: center;
   vertical-align: middle;
-  border-radius: 15px;
+  
   border: 5px solid #555555;
   box-shadow: rgba(29, 25, 25, 0.671);
+}
+
+#contactbox {
+  max-width: 400px;
 }
