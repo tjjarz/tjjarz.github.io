@@ -176,6 +176,10 @@ main {
   background-color: #979797;
 }
 
+.hidden {
+  display: none;
+}
+
 .container > div {
   width: 100%;
   float: left;
